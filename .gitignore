@@ -1,0 +1,21 @@
+# Ignora la cartella con i dati delle immagini
+data/
+
+# Ignora l'ambiente virtuale di Python
+classificatore_polmonite/
+
+# Ignora i file di configurazione e cache di Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignora file generati da Jupyter Notebook (se li usi)
+.ipynb_checkpoints/
+
+# Ignora file temporanei
+*.swp
+*.log
+
+# Ignora file di sistema
+.DS_Store
+Thumbs.db
